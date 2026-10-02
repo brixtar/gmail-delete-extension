@@ -1,0 +1,17 @@
+# OS files
+Thumbs.db
+.DS_Store
+
+# IDE & AI caches
+.qodo/
+.vscode/
+.idea/
+
+# Environment and secrets
+.env*
+*.pem
+*.key
+
+# Archives
+*.zip
+*.crx
